@@ -100,7 +100,7 @@ Unlike fast NST methods, this is the **classic optimization-based approach**, wh
 - 🌻 **Van Gogh Paintings** — Post-impressionist brushwork
 - 💥 **Pop Art** — Bold colors and graphic elements
 
-Each style category contains 3–5 representative images in `/style/`.
+Each style category contains 3 representative images in `/style/`.
 
 ---
 
@@ -146,7 +146,7 @@ Replace the following files with your own images:
 
 ## ⚖️ Multi-Beta Experiment
 
-`multi_beta_experiment.ipynb` explores how changing the style weight **β** affects the output.
+`multi_beta_experiment.py` explores how changing the style weight **β** affects the output.
 
 ### Parameters
 
@@ -164,10 +164,10 @@ Replace the following files with your own images:
 ### Running the Experiment
 
 ```bash
-jupyter notebook classical_nst/multi_beta_experiment.ipynb
+python classical_nst/multi_beta_experiment.py
 ```
 
-The notebook will generate:
+The file will generate:
 - Multiple outputs with different β values
 - Loss comparison plots
 - Grid comparison of results
