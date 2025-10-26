@@ -9,7 +9,7 @@ Includes experiments with **multiple β (style loss) weights** and several disti
 - 🧠 **VGG19-based feature extraction:** Pre-trained model for content and style representation
 - 🎯 **Multi-beta experiments:** Analyze style intensity across different weights
 - ⚡ **LBFGS optimizer:** Smooth convergence for high-quality results
-- 🎨 **Multiple artistic styles:** 4 distinct style categories with 3-5 images each
+- 🎨 **Multiple artistic styles:** 4 distinct style categories with 3 images each
 - 📊 **Visual comparisons:** Loss curves and grid layouts for analysis
 - 🔧 **Modular design:** Clean, easy-to-extend codebase
 
