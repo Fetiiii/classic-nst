@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.pth
+*.pt
+*.png
+*.jpg
+*.jpeg
+*.mp4
+.vscode/
+.idea/
+output/
+data/
